@@ -1,0 +1,4 @@
+Hello World!
+My name is Jim Ezesinachi.
+This is my first attempt of creating and updating a file using Node JS.
+It is a wonderful feeling to finally be doing the things I really care about.
