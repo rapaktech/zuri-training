@@ -1,6 +1,6 @@
 const app = require('express')();
 
-mongodb = require('mongodb');
+const mongodb = require('mongodb');
 
 const { MongoClient } = mongodb;
 
